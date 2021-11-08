@@ -1,2 +1,4 @@
 # hello-world1
-CM1705 Coursework
+what is your name?
+My name is Arinola
+Hello Arinola
